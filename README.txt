@@ -3,7 +3,7 @@ APPROACH
 1.I have considered each image plate and applied image processing techniques like binarize the image and morphological operation on that.
 2.Later segmenting each number/alphabet from the number plate using connected components algorithm in computer vision.
 3.Using Contour detection approximated the position of each number/alphabet in the number plate.
-4.I have thought of different methods like extracting the number plate rectangular box and then do four-point transformation on each plate that can improve the accuracy to great extend but for all the number plates I was not able extract the rectangular bounding box.
+4.I have thought of different methods like extracting the number plate rectangular box and then do four-point transformation on each plate that can improve the accuracy to great extent but for all the number plates I was not able extract the rectangular bounding box.
 5.So, I have concentrated on segmenting each number/alphabet in the number plate.
 6.Later these numbers/alphabets are pumped to CNN classification algorithm which has 36 classes 0-9 and A-Z.
 7.Before joining all the text into single string I have used my own bounding boxes sorting algorithm.
