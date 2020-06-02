@@ -12,6 +12,6 @@ APPROACH
 10.Anyways I have extracted number plate text using the model which I have trained.
 11.The data used for training also I am uploading to github you can see them as well.
 12.I have tried my best to do the assignment. Please let me know the feedback and the approach you thought of.
-13.I have collected all the number plate digits/alphabets and train on them but labelling them will take some time. So, I have trained based on another dataset which I found online.
+13.I have collected all the number plate digits/alphabets and train on them but labelling them will take some time. So, I have trained based on another dataset which I found online.Bmp folder has the training data which I used.
 14.Link to dataset: http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
 
